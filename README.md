@@ -1,10 +1,10 @@
-# ConstraintLayout Study Record
+# About Constraint Layout
 
 </br>
 </br>
 
 # 목차 
-  * [ConstraintLayout 알아보기](#constraintlayout-----)
+  * [About Constraint Layout](#about-constraint-layout)
     + [**ConstraintLayout이란?**](#--constraintlayout-----)
     + [**ConstrinatLayout을 사용하면 어떤점이 좋을까??**](#--constrinatlayout-------------------)
     + [**프로젝트에 설정하기**](#--------------)
