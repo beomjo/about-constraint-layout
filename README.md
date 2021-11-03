@@ -10,7 +10,7 @@
     + [**프로젝트에 설정하기**](#--------------)
     + [**Constraint(제약조건)**](#--constraint--------)
     + [**View 크기**](#--view-----)
-      - [**View 크기 - android:layout\_width / layout\_height 속성 사용**](#--view------android-layout--width---layout--height--------)
+      - [**View 크기 - layout\_width / layout\_height 속성 사용**](#--view------android-layout--width---layout--height--------)
       - [**View 크기 - Percent size**](#--view------percent-size--)
       - [**View 크기 - 가로 / 세로 비율 지정**](#--view---------------------)
       - [**View 크기 - 최소 / 최대**](#--view---------------)
@@ -152,7 +152,7 @@ ConstraintLayout에서  View의 위치를 정의하려면 보기의 가로
 
 ### **View 크기**
 
-#### **View 크기 - android:layout\_width / layout\_height 속성 사용**
+#### **View 크기 - layout\_width / layout\_height 속성 사용**
 
 1 .고정  ex) android: layout\_width="100dp"  
 2.wrap\_content  
